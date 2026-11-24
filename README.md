@@ -1,2 +1,2 @@
 # deepfake_detection
-Deepfake detector implemented through ML
+Data cleaninf & processing files for Deepfake detector implemented through ML
